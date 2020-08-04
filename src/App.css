@@ -59,4 +59,6 @@
  padding: 8px;
 }
 
- 
+.project-grid {
+  display: flex;
+}
