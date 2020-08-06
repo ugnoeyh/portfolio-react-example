@@ -8,7 +8,7 @@ class Landing extends Component {
                 <Grid className='landing-grid'>
                     <Cell col={12}>
                     <img
-                        src="https://i.dlpng.com/static/png/6860651_preview.png"
+                        src="https://www.blexar.com/avatar.png"
                         alt="avater"
                         className="avater-img"
                     />
@@ -19,7 +19,7 @@ class Landing extends Component {
                     
                     <div className="social-links">
                     <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                        <i class="fa fa-discord" aria-hidden="true" />
+                        <i class="fa fa-google" aria-hidden="true" />
                     </a>
 
                     <a href="http://github.com/black9" rel="noopener noreferrer" target="_blank">
