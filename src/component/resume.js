@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
 import History from './myhistory'
+
 class Resume extends Component {
     render() {
         return(
